@@ -63,7 +63,7 @@
         "lodash": "^3.5.0",
         "bcryptjs": "^2.1.0",
         "cors": "^2.5.3",
-        "multer": "^0.1.8"
+        "multer": "^2.0.1"
     },
     "devDependencies": {
         "nsp": "^1.0.0",
